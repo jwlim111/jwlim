@@ -24,3 +24,10 @@ WLAN Rx 패킷 카운트 0으로 받는 원인 계속 탐색중
 명일계획
 WLAN Rx 패킷 카운트 0으로 받는 원인 계속 탐색중
 BT Rx 확인
+
+07.10
+STATION의 RSSI 받아오기
+-> MAC 주소 먼저 알고 (./wl assoclist)
+-> ./wl rssi [MAC]
+
+BLE 신호 안잡힘.
