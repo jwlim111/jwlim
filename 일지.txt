@@ -31,3 +31,13 @@ STATION의 RSSI 받아오기
 -> ./wl rssi [MAC]
 
 BLE 신호 안잡힘.
+
+07.11
+오전 WST 데모
+- 11ac의 경우 WTS에서는 Gate Power를 OFF에 두면 측정 가능
+- Rx 부분에 대해 조금 더 확인 할 필요 있음
+- BT보다 Wlan을 우선
+- 가능하면 Test 프로그램 작성예정
+
+07.12
+Wlan Rx에 대한 조금 더 자세한 패킷 카운트 가능 여부 확인중
