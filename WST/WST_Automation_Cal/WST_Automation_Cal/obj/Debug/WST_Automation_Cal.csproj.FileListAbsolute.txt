@@ -1,0 +1,10 @@
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\obj\Debug\WST_Automation_Cal.csproj.AssemblyReference.cache
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\obj\Debug\WST_Automation_Cal.Properties.Resources.resources
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\obj\Debug\WST_Automation_Cal.csproj.GenerateResource.cache
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\obj\Debug\WST_Automation_Cal.csproj.CoreCompileInputs.cache
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\bin\Debug\WST_Automation_Cal.exe.config
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\bin\Debug\WST_Automation_Cal.exe
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\bin\Debug\WST_Automation_Cal.pdb
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\obj\Debug\WST_Automation_Cal.MainWindow.resources
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\obj\Debug\WST_Automation_Cal.exe
+C:\BK\jwlim\WST\WST_Automation_Cal\WST_Automation_Cal\obj\Debug\WST_Automation_Cal.pdb
